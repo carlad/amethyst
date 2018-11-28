@@ -26,8 +26,7 @@ matrix:
 
 branches:
   only:
-  - staging
-  - trying
+  - master
 
 before_install:
 - |
